@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-awsamplify-dev-081e7-authRole",
-      "UnauthRoleArn": "arn:aws:iam::202533527210:role/amplify-awsamplify-dev-081e7-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::202533527210:role/amplify-awsamplify-dev-081e7-authRole",
+      "AuthRoleName": "amplify-joblistingportal-dev-8ec3a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::202533527210:role/amplify-joblistingportal-dev-8ec3a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::202533527210:role/amplify-joblistingportal-dev-8ec3a-authRole",
       "Region": "ap-south-1",
-      "DeploymentBucketName": "amplify-awsamplify-dev-081e7-deployment",
-      "UnauthRoleName": "amplify-awsamplify-dev-081e7-unauthRole",
-      "StackName": "amplify-awsamplify-dev-081e7",
-      "StackId": "arn:aws:cloudformation:ap-south-1:202533527210:stack/amplify-awsamplify-dev-081e7/d9aaacd0-fc4c-11ef-85cc-0a72fb455c43",
-      "AmplifyAppId": "dbby497wzqsfd"
+      "DeploymentBucketName": "amplify-joblistingportal-dev-8ec3a-deployment",
+      "UnauthRoleName": "amplify-joblistingportal-dev-8ec3a-unauthRole",
+      "StackName": "amplify-joblistingportal-dev-8ec3a",
+      "StackId": "arn:aws:cloudformation:ap-south-1:202533527210:stack/amplify-joblistingportal-dev-8ec3a/2a323120-fcb4-11ef-82ba-0a8d4a9ccba5",
+      "AmplifyAppId": "d3ogv41zdho91a"
     }
   }
 }
